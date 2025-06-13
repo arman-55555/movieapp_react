@@ -2,7 +2,7 @@
 
 A sleek and modern React application for discovering and managing your favorite movies. Built with Vite, React Router, and featuring a beautiful, responsive UI with dark theme and stunning visual effects.
 
-![Movie App Screenshot](https://via.placeholder.com/800x400/1a1a2e/64ffda?text=CinemaHub+Movie+App)
+
 
 ## ✨ Features
 
